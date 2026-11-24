@@ -29,6 +29,8 @@ Application permettant de gérer des tournois d'échecs, les joueurs, les rounds
 - Interface en ligne de commande
 - Respect des bonnes pratiques de développement
 
+Repository : https://github.com/stephanmarfaing/oc-p4-chess-tournament
+
 ### 🌐 Application Web interactive
 
 Développement et amélioration d'une interface web dynamique dans le cadre de la formation OpenClassrooms.
@@ -42,6 +44,8 @@ Développement et amélioration d'une interface web dynamique dans le cadre de l
 - Accessibilité web
 - Optimisation de l'expérience utilisateur
 
+Repository : https://github.com/stephanmarfaing/oc-p6-front-end-app
+
 ### 📈 Optimisation d'un portefeuille d'investissement
 
 Implémentation et comparaison de différentes approches algorithmiques afin de déterminer la combinaison d'actions la plus rentable sous contrainte budgétaire.
@@ -54,9 +58,11 @@ Implémentation et comparaison de différentes approches algorithmiques afin de 
 - Analyse de complexité
 - Optimisation des performances
 
+Repository : https://github.com/stephanmarfaing/oc-p7-optimisation-investissement
+
 ## Mon parcours
 
-- Technicien de laboratoire pendant plus de 10 ans
+- Plus de 10 ans d'expérience en laboratoire de biologie médicale
 - Cadre de santé
 - Développeur Python en formation chez OpenClassrooms
 
@@ -64,11 +70,14 @@ Cette expérience professionnelle m'a permis de développer des compétences tra
 
 ## Objectif professionnel
 
-À l'issue de ma formation, je souhaite rejoindre une équipe de développement en tant que Développeur Python Junior afin de mettre en pratique mes compétences techniques et poursuivre ma montée en compétences dans le développement logiciel.
+À l'issue de ma formation, je souhaite rejoindre une équipe de développement en tant que développeur Python junior afin de mettre en pratique mes compétences techniques et poursuivre ma montée en compétences dans le développement logiciel.
 
 ## Contact
 
 - GitHub : https://github.com/stephanmarfaing
-- LinkedIn : www.linkedin.com/in/stéphan-marfaing-722952157
+- LinkedIn : https://www.linkedin.com/in/st%C3%A9phan-marfaing-722952157/
 
 Merci de votre visite !
+
+## En cours d'apprentissage
+- Django
