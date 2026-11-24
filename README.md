@@ -4,7 +4,7 @@
 
 Développeur Python en reconversion professionnelle.
 
-Après plus de 10 ans d'expérience dans les domaines du laboratoire et de la santé, je me forme aujourd'hui au développement d'applications Python avec OpenClassrooms. Cette reconversion me permet de combiner mes compétences analytiques, ma rigueur professionnelle et ma passion pour la programmation.
+Après plus de 10 ans d'expérience dans le domaine de la biologie médicale et du management en santé, je me forme aujourd'hui au développement d'applications Python avec OpenClassrooms. Cette reconversion me permet de combiner mes compétences analytiques, ma rigueur professionnelle et ma passion pour la programmation.
 
 ## Compétences techniques
 
@@ -31,7 +31,7 @@ Application permettant de gérer des tournois d'échecs, les joueurs, les rounds
 - Interface en ligne de commande
 - Respect des bonnes pratiques de développement
 
-Repository : https://github.com/stephanmarfaing/oc-p4-chess-tournament
+📂 Repository GitHub(https://github.com/stephanmarfaing/oc-p4-chess-tournament)
 
 ### 🌐 Application Web interactive
 
@@ -46,7 +46,7 @@ Développement et amélioration d'une interface web dynamique dans le cadre de l
 - Accessibilité web
 - Optimisation de l'expérience utilisateur
 
-Repository : https://github.com/stephanmarfaing/oc-p6-front-end-app
+📂 Repository GitHub(https://github.com/stephanmarfaing/oc-p6-front-end-app)
 
 ### 📈 Optimisation d'un portefeuille d'investissement
 
@@ -60,7 +60,7 @@ Implémentation et comparaison de différentes approches algorithmiques afin de 
 - Analyse de complexité
 - Optimisation des performances
 
-Repository : https://github.com/stephanmarfaing/oc-p7-optimisation-investissement
+📂 Repository GitHub(https://github.com/stephanmarfaing/oc-p7-optimisation-investissement)
 
 ## Mon parcours
 
