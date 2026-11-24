@@ -2,11 +2,11 @@
 
 # Bonjour, je suis Stéphan 👋
 
-Développeur Python en reconversion professionnelle.
+**Développeur Python en reconversion professionnelle.**
 
 Après plus de 10 ans d'expérience dans le domaine de la biologie médicale et du management en santé, je me forme aujourd'hui au développement d'applications Python avec OpenClassrooms. Cette reconversion me permet de combiner mes compétences analytiques, ma rigueur professionnelle et ma passion pour la programmation.
 
-## Compétences techniques
+## 🛠️ Compétences techniques
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -17,7 +17,7 @@ Après plus de 10 ans d'expérience dans le domaine de la biologie médicale et 
 
 **Concepts :** Programmation orientée objet (POO) • Algorithmes et optimisation • Analyse des besoins • Architecture logicielle • Bases de données
 
-## Projets principaux
+## 🚀 Projets principaux
 
 ### ♟️ Gestionnaire de tournoi d'échecs
 
@@ -25,14 +25,7 @@ Après plus de 10 ans d'expérience dans le domaine de la biologie médicale et 
 
 Application permettant de gérer des tournois d'échecs, les joueurs, les rounds et les matchs.
 
-**Compétences développées :**
-- Programmation orientée objet
-- Architecture logicielle Python
-- Modélisation des données
-- Utilisation de TinyDB
-- Interface en ligne de commande
-- Respect des bonnes pratiques de développement
-
+**Compétences :** Programmation orientée objet • Architecture logicielle Python • Modélisation des données • TinyDB • Interface en ligne de commande • Bonnes pratiques de développement
 
 ### 🌐 Application Web interactive
 
@@ -40,15 +33,7 @@ Application permettant de gérer des tournois d'échecs, les joueurs, les rounds
 
 Développement et amélioration d'une interface web dynamique dans le cadre de la formation OpenClassrooms.
 
-**Compétences développées :**
-- HTML5
-- CSS3
-- JavaScript
-- Manipulation du DOM
-- Responsive Design
-- Accessibilité web
-- Optimisation de l'expérience utilisateur
-
+**Compétences :** HTML5 • CSS3 • JavaScript • Manipulation du DOM • Responsive Design • Accessibilité web • Optimisation de l'expérience utilisateur
 
 ### 📈 Optimisation d'un portefeuille d'investissement
 
@@ -56,16 +41,9 @@ Développement et amélioration d'une interface web dynamique dans le cadre de l
 
 Implémentation et comparaison de différentes approches algorithmiques afin de déterminer la combinaison d'actions la plus rentable sous contrainte budgétaire.
 
-**Compétences développées :**
-- Python
-- Algorithme de force brute
-- Algorithme glouton
-- Programmation dynamique
-- Analyse de complexité
-- Optimisation des performances
+**Compétences :** Python • Algorithme de force brute • Algorithme glouton • Programmation dynamique • Analyse de complexité • Optimisation des performances
 
-
-## Mon parcours
+## 👤 Mon parcours
 
 - Plus de 10 ans d'expérience en laboratoire de biologie médicale
 - Cadre de santé
@@ -73,16 +51,17 @@ Implémentation et comparaison de différentes approches algorithmiques afin de 
 
 Cette expérience professionnelle m'a permis de développer des compétences transférables essentielles : rigueur, autonomie, travail en équipe, gestion des priorités et résolution de problèmes complexes.
 
-## Objectif professionnel
+## 🎯 Objectif professionnel
 
 À l'issue de ma formation, je souhaite rejoindre une équipe de développement en tant que développeur Python junior afin de mettre en pratique mes compétences techniques et poursuivre ma montée en compétences dans le développement logiciel.
 
-## Contact
+## 📚 En cours d'apprentissage
 
-- GitHub : https://github.com/stephanmarfaing
-- LinkedIn : https://www.linkedin.com/in/st%C3%A9phan-marfaing-722952157/
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+## 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stephanmarfaing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/st%C3%A9phan-marfaing-722952157/)
 
 Merci de votre visite !
-
-## En cours d'apprentissage
-- Django
