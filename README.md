@@ -1,3 +1,5 @@
+![Bannière Stéphan Marfaing](github-banner-stephan-marfaing.png)
+
 # Bonjour, je suis Stéphan 👋
 
 Développeur Python en reconversion professionnelle.
