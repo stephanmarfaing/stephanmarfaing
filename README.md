@@ -2,7 +2,7 @@
 
 # Bonjour, je suis Stéphan 👋
 
-**Développeur Python en reconversion professionnelle.**
+🎓 En formation Développeur d'Application Python chez OpenClassrooms
 
 Après plus de 10 ans d'expérience dans le domaine de la biologie médicale et du management en santé, je me forme aujourd'hui au développement d'applications Python avec OpenClassrooms. Cette reconversion me permet de combiner mes compétences analytiques, ma rigueur professionnelle et ma passion pour la programmation.
 
