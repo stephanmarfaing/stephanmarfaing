@@ -21,6 +21,8 @@ Après plus de 10 ans d'expérience dans le domaine de la biologie médicale et 
 
 ### ♟️ Gestionnaire de tournoi d'échecs
 
+📂 [Repository GitHub](https://github.com/stephanmarfaing/oc-p4-chess-tournament)
+
 Application permettant de gérer des tournois d'échecs, les joueurs, les rounds et les matchs.
 
 **Compétences développées :**
@@ -31,9 +33,10 @@ Application permettant de gérer des tournois d'échecs, les joueurs, les rounds
 - Interface en ligne de commande
 - Respect des bonnes pratiques de développement
 
-📂 [Repository GitHub](https://github.com/stephanmarfaing/oc-p4-chess-tournament)
 
 ### 🌐 Application Web interactive
+
+📂 [Repository GitHub](https://github.com/stephanmarfaing/oc-p6-front-end-app)
 
 Développement et amélioration d'une interface web dynamique dans le cadre de la formation OpenClassrooms.
 
@@ -46,9 +49,10 @@ Développement et amélioration d'une interface web dynamique dans le cadre de l
 - Accessibilité web
 - Optimisation de l'expérience utilisateur
 
-📂 [Repository GitHub](https://github.com/stephanmarfaing/oc-p6-front-end-app)
 
 ### 📈 Optimisation d'un portefeuille d'investissement
+
+📂 [Repository GitHub](https://github.com/stephanmarfaing/oc-p7-optimisation-investissement)
 
 Implémentation et comparaison de différentes approches algorithmiques afin de déterminer la combinaison d'actions la plus rentable sous contrainte budgétaire.
 
@@ -60,7 +64,6 @@ Implémentation et comparaison de différentes approches algorithmiques afin de 
 - Analyse de complexité
 - Optimisation des performances
 
-📂 [Repository GitHub](https://github.com/stephanmarfaing/oc-p7-optimisation-investissement)
 
 ## Mon parcours
 
